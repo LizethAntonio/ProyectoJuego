@@ -7,7 +7,7 @@
 4. [Ejecución](#Ejecución)
 5. [Autores](#autores)
 
-## Descripcióó
+## Descripción
 
 Aplicación de consola de un juego de computadora en 3D con manipulación por el usuario desarrollado en Microsoft Visual Studio usando luenguaje c++.
 
