@@ -7,11 +7,11 @@
 4. [Ejecución](#Ejecución)
 5. [Autores](#autores)
 
-## Descripción
+## Descripcióó
 
 Aplicación de consola de un juego de computadora en 3D con manipulación por el usuario desarrollado en Microsoft Visual Studio usando luenguaje c++.
 
-## Caracteristicas
+## Características
 
 - Usa las teclas "a" (giro a la derecha), "d" (giro a la izquierda) y "w" (avanzar) para moverte en el juego. 
 - Atraviesa las cajas de color amarillo para sumar puntos.
